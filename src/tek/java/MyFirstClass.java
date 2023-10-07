@@ -4,7 +4,7 @@ public class MyFirstClass {
     public static void main(String[] args) {
         System.out.println("This is new changes");
 
-        system.out.println("Added by Sabar");
+        System.out.println("Added by Sabar");
             
     }
 }
